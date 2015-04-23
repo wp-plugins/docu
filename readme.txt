@@ -9,7 +9,7 @@ A simple Documentation Plugin
 
 == Description ==
 
-Docu it's a simple but flexible documentation plugin that allows you to document your products with ease.
+Docu is a simple but flexible documentation plugin that allows you to document your products with ease.
 <a href="http://wp.dinamiko.com/demos/docu" target="_blank">Docu Demo and Documentation</a>
 
 = Features =
