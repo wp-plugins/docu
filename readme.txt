@@ -47,7 +47,7 @@ https://github.com/desandro/imagesloaded
 
 == Changelog ==
 = 1.2 =
-* Tested in WordPress 1.1.2 
+* Tested in WordPress 4.1.2 
 * Removed unnecessari parameters in apply_filters
 = 1.1 =
 * Fix a console error when masonry isn't loaded
