@@ -14,7 +14,6 @@ Docu it's a simple but flexible documentation plugin that allows you to document
 
 = Features =
  
-* Create Categories and Docs the same way as you create Categories and Posts in WordPress
 * Order Doc Categories and Docs with drag and drop in the admin
 * Docu Sidebar Widget that displays a search form and a list of all categories
 * Flexible template system that allows template overrides in an upgrade safe way
